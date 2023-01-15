@@ -1,1 +1,1 @@
-45DaysChallenge
+<strong>45DaysChallenge</strong>
