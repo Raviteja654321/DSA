@@ -6,7 +6,7 @@
 - [ ] Implement Queue using Arrays
 - [ ] Implement stack using Queue (Using single Queue)
 - [ ] Implement Queue using stack in O(1)
-- [ ] Next greatest Right
+- [x] Next greatest Right
 - [ ] Next greatest Left
 - [ ] Next Smallest Right
 - [ ] Next Smallest Left
