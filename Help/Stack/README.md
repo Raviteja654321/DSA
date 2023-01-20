@@ -14,3 +14,4 @@
 - [x] Stock Span problem
 ### 21st January 2023
 - [x] Maximum Area Histogram
+- [x] Maximum Area Rectangle in Binary Matrix
