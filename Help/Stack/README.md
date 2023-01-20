@@ -12,3 +12,4 @@
 - [x] Next Smallest Left
 ### 20th January 2023
 - [x] Stock Span problem
+- [ ] Maximum Area Histogram
