@@ -10,3 +10,5 @@
 - [x] Next greatest Left
 - [x] Next Smallest Right
 - [x] Next Smallest Left
+### 20th January 2023
+- [x] Stock Span problem
