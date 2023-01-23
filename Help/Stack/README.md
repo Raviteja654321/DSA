@@ -15,5 +15,5 @@
 ### 21st January 2023
 - [x] Maximum Area Histogram
 - [x] Maximum Area Rectangle in Binary Matrix
-###23rd January 2023
+### 23rd January 2023
 - [x] Trapping Rain Water
