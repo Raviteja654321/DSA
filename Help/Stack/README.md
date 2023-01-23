@@ -39,5 +39,10 @@ Supporting Stack
 ```
 push 2*x-Min_Ele into stack if new element is  less than min_ele
 ```
+
+```
+   2* newMin-prevMin is always less than the newMin
+```
+
 </details>
 
