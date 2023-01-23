@@ -17,5 +17,5 @@
 - [x] Maximum Area Rectangle in Binary Matrix
 ### 23rd January 2023
 - [x] Trapping Rain Water
-- [ ] Minimum Element in Stack With Extra Space 
+- [x] Minimum Element in Stack With Extra Space 
 - [ ] Minimum Element in Stack without Extra Space
