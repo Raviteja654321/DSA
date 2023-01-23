@@ -14,7 +14,14 @@
 - [x] Stock Span problem
 ### 21st January 2023
 - [x] Maximum Area Histogram
-- [x] Maximum Area Rectangle in Binary Matrix
+<details>
+  <summary>Maximum Area Rectangle in Binary Matrix</summary>  
+
+```
+2-D MAH - Add every row with logic
+```
+</details>
+
 ### 23rd January 2023
 
 <details>
