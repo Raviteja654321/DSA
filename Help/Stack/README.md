@@ -16,6 +16,28 @@
 - [x] Maximum Area Histogram
 - [x] Maximum Area Rectangle in Binary Matrix
 ### 23rd January 2023
-- [x] Trapping Rain Water
-- [x] Minimum Element in Stack With Extra Space 
-- [ ] Minimum Element in Stack without Extra Space
+
+<details>
+  <summary>Trapping Rain Water</summary>  
+
+```
+min(Right_Max,Left_Max)-a[i]
+```
+</details>
+
+<details>
+  <summary>Minimum Element in Stack With Extra Space</summary>  
+
+```
+Supporting Stack
+```
+</details>
+
+<details>
+  <summary>Minimum Element in Stack Without Extra Space</summary>  
+
+```
+push 2*x-Min_Ele into stack if new element is  less than min_ele
+```
+</details>
+
