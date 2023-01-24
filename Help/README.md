@@ -59,3 +59,4 @@ push 2*x-Min_Ele into stack if new element is  less than min_ele
 
 - [x] Add two numbers in Linked List
 - [x] Delete node in a linked list
+- [x] Intersection point of two linked lists
