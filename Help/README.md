@@ -57,4 +57,5 @@ push 2*x-Min_Ele into stack if new element is  less than min_ele
 
 ### 24th January 2023
 
-- [x] Add two numbers (Linked List)
+- [x] Add two numbers in Linked List
+- [x] Delete node in a linked list
