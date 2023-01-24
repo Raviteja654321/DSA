@@ -55,3 +55,6 @@ push 2*x-Min_Ele into stack if new element is  less than min_ele
 
 </details>
 
+### 24th January 2023
+
+- [x] Add two numbers (Linked List)
