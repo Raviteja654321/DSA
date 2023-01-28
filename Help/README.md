@@ -68,3 +68,6 @@ push 2*x-Min_Ele into stack if new element is  less than min_ele
 - [x] Inorder Traversal
 - [x] Preorder Traversal
 - [x] Postorder Traversal
+- [ ] Left view of Binary Tree
+- [ ] Top view of Binary Tree
+- [ ] Bottom view of Binary Tree
