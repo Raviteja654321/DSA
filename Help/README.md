@@ -70,5 +70,5 @@ push 2*x-Min_Ele into stack if new element is  less than min_ele
 - [x] Postorder Traversal
 ### 29th January 2023
 - [x] Left view of Binary Tree
-- [ ] Top view of Binary Tree
+- [x] Top view of Binary Tree
 - [ ] Bottom view of Binary Tree
