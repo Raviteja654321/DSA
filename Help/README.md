@@ -65,3 +65,6 @@ push 2*x-Min_Ele into stack if new element is  less than min_ele
 
 ### 28th January 2023
 - [x] Asteroid Collision
+- [x] Inorder Traversal
+- [x] Preorder Traversal
+- [x] Postorder Traversal
