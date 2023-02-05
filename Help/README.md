@@ -76,3 +76,4 @@ push 2*x-Min_Ele into stack if new element is  less than min_ele
 - [x] Subset Sum Recursion
 - [x] Subset-II  Recursion
 - [x] Combination Sum Recursion
+- [x] Maximum Sum Without Adjacent -DP
