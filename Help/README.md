@@ -72,5 +72,5 @@ push 2*x-Min_Ele into stack if new element is  less than min_ele
 - [x] Left view of Binary Tree
 - [x] Top view of Binary Tree
 - [x] Bottom view of Binary Tree
-### 4th February 2023
-- [ ] 
+### 5th February 2023
+- [x] Subset Sum Recursion
