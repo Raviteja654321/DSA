@@ -77,3 +77,5 @@ push 2*x-Min_Ele into stack if new element is  less than min_ele
 - [x] Subset-II  Recursion
 - [x] Combination Sum Recursion
 - [x] Maximum Sum Without Adjacent -DP
+### 6th February 2023
+- [x] BST Downward Traversal
