@@ -80,3 +80,6 @@ push 2*x-Min_Ele into stack if new element is  less than min_ele
 ### 6th February 2023
 - [x] BST Downward Traversal
 - [x] Vertical Order Traversal of Binary Tree
+### 9th February 2023
+- [x] Maximum Depth of Binary tree
+
