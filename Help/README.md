@@ -83,3 +83,12 @@ push 2*x-Min_Ele into stack if new element is  less than min_ele
 ### 9th February 2023
 - [x] Maximum Depth of Binary tree
 
+
+....
+
+### 12th March 2023
+- [x] Merge Two Sorted Linked Lists
+
+
+
+
