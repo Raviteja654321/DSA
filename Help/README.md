@@ -1,4 +1,4 @@
-<h1><strong>45DaysChallenge</strong></h1>
+<!-- <h1><strong>45DaysChallenge</strong></h1> -->
 
 ### 15th January 2023
 
